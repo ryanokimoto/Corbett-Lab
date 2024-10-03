@@ -1,0 +1,7 @@
+requests
+numpy
+langchain
+langchain-community
+openai
+transformers
+torch
